@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    android:gravity="center"
+    android:orientation="vertical"> <!-- Centre les éléments horizontalement et verticalement -->
+
+    <!-- Bouton Liste Etudiants -->
+    <Button
+        android:id="@+id/showstudents"
+        android:layout_width="208dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:text="Liste Etudiants"
+        android:textAllCaps="false"
+        android:textSize="24sp"
+        android:backgroundTint="#3F51B5"/> <!-- Centre le bouton horizontalement -->
+
+    <!-- Espacement entre les boutons -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="30dp" /> <!-- Espacement entre les boutons -->
+
+    <!-- Bouton Ajouter Etudiant -->
+    <Button
+        android:id="@+id/addstudent"
+        android:layout_width="208dp"
+        android:layout_height="89dp"
+        android:layout_gravity="center"
+        android:text="Ajouter Etudiant"
+        android:textAllCaps="false"
+        android:textSize="24sp"
+        android:backgroundTint="@color/button"/> <!-- Centre le bouton horizontalement -->
+
+</LinearLayout>
