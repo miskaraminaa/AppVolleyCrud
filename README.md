@@ -26,7 +26,7 @@ Pour exécuter l'application localement, suivez ces étapes :
 
 
 ### PostMan CreateEtudiant
-![CreateEtudiant]https://github.com/user-attachments/assets/1f787f63-eccc-4a00-a4fc-ec53e893c397)
+![CreateEtudiant](https://github.com/user-attachments/assets/1f787f63-eccc-4a00-a4fc-ec53e893c397)
 
 ### Ajout dans la table
 ![Ajout d'un Étudiant](https://github.com/user-attachments/assets/9743b0ee-3305-4f5b-8f83-7a6fb6301904)
