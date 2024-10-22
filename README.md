@@ -26,11 +26,14 @@ Pour exécuter l'application localement, suivez ces étapes :
 
 
 ### PostMan CreateEtudiant
-![CreateEtudiant](https://github.com/user-attachments/assets/1af2e810-9885-41be-b196-a184be584b16)
+![CreateEtudiant]https://github.com/user-attachments/assets/1f787f63-eccc-4a00-a4fc-ec53e893c397)
+
 ### Ajout dans la table
-![Ajout d'un Étudiant](https://github.com/user-attachments/assets/f81b76dc-02f3-4eac-a72e-83b6b7f4d2a4)
+![Ajout d'un Étudiant](https://github.com/user-attachments/assets/cce12637-e9e8-4d16-971c-9c1714fe1c98)
+
 ### PostMan LoadEtudiant
-![LoadEtudiant](https://github.com/user-attachments/assets/472a30df-b00c-4023-8c66-2dae87a06749)
+![LoadEtudiant](https://github.com/user-attachments/assets/08fd8bbf-52b4-48c0-9d71-bf59d85e1e5e)
+)
 
 
 
