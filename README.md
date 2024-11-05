@@ -30,7 +30,6 @@ Pour exécuter l'application localement, suivez ces étapes :
 
 ### Ajout dans la table
 
-https://github.com/user-attachments/assets/568412e3-4a44-4057-b41f-8c8dcf2c5089
 
 
 ![Ajout d'un Étudiant](https://github.com/user-attachments/assets/6cce3733-7887-4ade-902b-6be206b7b2b9)
@@ -41,6 +40,9 @@ https://github.com/user-attachments/assets/568412e3-4a44-4057-b41f-8c8dcf2c5089
 ![LoadEtudiant](https://github.com/user-attachments/assets/08fd8bbf-52b4-48c0-9d71-bf59d85e1e5e)
 )
 
+### DEMO
+
+https://github.com/user-attachments/assets/568412e3-4a44-4057-b41f-8c8dcf2c5089
 
 
 
